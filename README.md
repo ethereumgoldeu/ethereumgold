@@ -1,7 +1,7 @@
 EthereumGold integration/staging tree
 ================================
 
-http://www.ethereumgold.org
+https://www.ethereumgold.eu/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 EthereumGold Developers
@@ -9,17 +9,17 @@ Copyright (c) 2011-2014 EthereumGold Developers
 What is EthereumGold?
 ----------------
 
-EthereumGold is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+Type: PoW
+Coin name: EthereumGold
+Coin abbreviation: ETD
+Address letter: E
+Block reward: 140 coins
+Block halving: 50000 blocks
+Total coin supply: 15053763 coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the EthereumGold client sofware, see http://www.ethereumgold.org.
+the EthereumGold client sofware, see https://www.ethereumgold.eu/
 
 License
 -------
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/ethereumgold-project/ethereumgold/tags) are created
+completely stable. [Tags](https://github.com/ethereumgoldeu/ethereumgold) are created
 regularly to indicate new official, stable release versions of EthereumGold.
 
 Testing
